@@ -1,0 +1,5 @@
+{
+    "name": "admin/send-ms",
+    "description": "Send e-mails using php",
+    "require": {}
+}
